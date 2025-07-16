@@ -57,8 +57,8 @@
 ### 🤝 Conecta conmigo
 
 <p align="center">
-  <a href="mailto:zchacon@correo.usac.edu.gt"><img src="https://img.shields.io/badge/-Correo%20USAC-0078D4?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/zchacon"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:zenaidaichacong.gmail.com"><img src="https://img.shields.io/badge/-Correo%20USAC-0078D4?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="www.linkedin.com/in/zenaidachacon"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
