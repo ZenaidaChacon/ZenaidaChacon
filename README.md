@@ -1,68 +1,113 @@
 <h1 align="center">👩‍💻 ¡Hola, soy Zenaida Chacón! 👋</h1>
 
 <p align="center">
-  Estudiante de Ingeniería en Ciencias y Sistemas <br>
+  Estudiante de Ingeniería en Ciencias y Sistemas<br>
   <strong>Universidad de San Carlos de Guatemala 🇬🇹</strong><br>
-  Apasionada por la programación, el desarrollo de software y la tecnología educativa.
+  Apasionada por el desarrollo tecnológico, la enseñanza y la mejora continua.
 </p>
 
 ---
 
-### 📌 Sobre mí
+## 💫 Sobre mí
 
-- 🎓 Actualmente en **noveno semestre** de Ingeniería en Ciencias y Sistemas.
-- 📘 Complemento mi formación técnica con un **Diplomado en Administración de Empresas**.
-- 👩‍🏫 Soy **tutora académica** en el curso *Introducción a la Programación y Computación 1*.
-- 💬 Me interesa todo lo relacionado con **desarrollo web**, **inteligencia artificial**, **automación**, y **educación tecnológica**.
-- 🚀 Siempre estoy aprendiendo nuevas tecnologías y participando en proyectos innovadores.
+Soy una estudiante de noveno semestre de Ingeniería en Ciencias y Sistemas en la Universidad de San Carlos de Guatemala. Complemento mi formación con un diplomado en Administración de Empresas, que me ha permitido fortalecer mis capacidades organizativas y de liderazgo.
+
+Actualmente me desempeño como tutora académica en el curso *Introducción a la Programación y Computación 1*, reforzando contenidos como algoritmos, estructuras de control y lógica computacional. Me considero una persona proactiva, responsable y orientada a resultados, con interés en seguir creciendo en entornos tecnológicos desafiantes.
 
 ---
 
-### 🛠️ Tecnologías y herramientas
+## 🧠 Áreas de Interés
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+- Desarrollo backend y frontend
+- Inteligencia artificial y machine learning
+- Compiladores y herramientas de parsing
+- Educación tecnológica
+- Cloud computing y DevOps
+- Visualización de datos
 
 ---
 
-### 📂 Proyectos destacados
+## 💻 Tech Stack
 
-| Proyecto | Descripción | Tecnologías |
-|---------|-------------|-------------|
-| 🛠️ Sistema de Gestión Académica | Plataforma para administración de cursos, estudiantes y calificaciones. | Python, Flask, MySQL |
-| 🧠 Red Neuronal con TensorFlow | Modelo simple de red neuronal para clasificación de dígitos. | Python, TensorFlow |
-| 🌐 Portafolio Web Personal | Sitio web responsive para mostrar mi perfil y proyectos. | HTML, CSS, JavaScript |
-| 🗃️ Simulaciones con Simio | Modelos de simulación para procesos industriales. | Simio, Excel, Modelado 3D |
+### 🔷 Lenguajes
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=py" height="40" title="Python" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" title="Java" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" title="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" title="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=go" height="40" title="Go" />
+  <img src="https://skillicons.dev/icons?i=php" height="40" title="PHP" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" title="C++" />
+  <img src="https://skillicons.dev/icons?i=cs" height="40" title="C#" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" title="HTML" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" title="CSS" />
+</div>
+
+### 🚀 Frameworks y Librerías
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=angular" height="40" title="Angular" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" title="React" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" title="Node.js" />
+  <img src="https://skillicons.dev/icons?i=flask" height="40" title="Flask" />
+  <img src="https://skillicons.dev/icons?i=django" height="40" title="Django" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="40" title=".NET" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" title="Express.js" />
+</div>
+
+### 🗃️ Bases de datos
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" title="MySQL" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" title="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=redis" height="40" title="Redis" />
+  <img src="https://skillicons.dev/icons?i=oracle" height="40" title="Oracle" />
+</div>
+
+### ☁️ Cloud & DevOps
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=aws" height="40" title="AWS" />
+  <img src="https://skillicons.dev/icons?i=gcp" height="40" title="Google Cloud" />
+  <img src="https://skillicons.dev/icons?i=azure" height="40" title="Azure" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" title="Docker" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="40" title="Kubernetes" />
+  <img src="https://skillicons.dev/icons?i=terraform" height="40" title="Terraform" />
+  <img src="https://skillicons.dev/icons?i=githubactions" height="40" title="GitHub Actions" />
+  <img src="https://skillicons.dev/icons?i=gitlab" height="40" title="GitLab CI/CD" />
+</div>
+
+### 📊 Visualización y Monitoreo
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=powerbi" height="40" title="Power BI" />
+  <img src="https://skillicons.dev/icons?i=grafana" height="40" title="Grafana" />
+</div>
 
 ---
 
-### 📈 GitHub Stats
+## 🧩 Otros conocimientos
+
+- 🧪 **Compiladores**: JFlex, CUP, ANTLR, Flex/Bison, Jison  
+- 📦 **Herramientas**: Git, GitKraken, Microsoft Office Avanzado  
+- 🧠 **Odoo ERP/CRM**, manejo básico de ERP empresariales  
+- 🧑‍🏫 Formación en lógica, estructuras de datos, programación modular y orientada a objetos  
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZenaidaChacon&show_icons=true&theme=radical" alt="GitHub Stats">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZenaidaChacon&layout=compact&theme=radical" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=ZenaidaChacon&show_icons=true&theme=rose_pine" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZenaidaChacon&layout=compact&theme=rose_pine" height="180px" />
 </p>
 
 ---
 
-### 🤝 Conecta conmigo
+## 🌐 Conecta conmigo
 
 <p align="center">
-  <a href="mailto:zenaidaichacong@gmail.com"><img src="https://img.shields.io/badge/-Correo%20USAC-0078D4?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="www.linkedin.com/in/zenaidachacon"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:zenaidaichacong@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/zenaidachacon"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/ZenaidaChacon"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
 
-<p align="center">
-  ¡Gracias por visitar mi perfil! 🌟
-</p>
+
