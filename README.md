@@ -1,69 +1,75 @@
-<h1 align="center">👩‍💻 ¡Hola, soy Zenaida Chacón! 👋</h1>
+# 💫 About Me:
+Hello there! 👋 I'm **Zenaida Chacón**, an enthusiastic student pursuing a degree in **Computer Science and Systems Engineering** at the **Universidad de San Carlos de Guatemala**. I'm passionate about leveraging technology to solve real-world problems and inspire others through education and innovation.<br><br>
+- 🎓 Currently in my **9th semester**, committed to growing both technically and personally.<br>
+- 🧑‍🏫 Serving as an **academic tutor** for the *Introduction to Programming and Computing 1* course, helping fellow students strengthen their foundational knowledge.<br>
+- 💡 Skilled in Python, Java, JavaScript, HTML/CSS, and currently exploring frameworks like Flask and React.<br>
+- 🔭 Actively engaged in building academic platforms, data simulations, and AI-based projects to deepen my system design and problem-solving skills.<br>
+- 🌟 Firm believer in the transformative power of technology and education to generate impact in local communities.<br>
+- 🚀 Always eager to learn new tools, collaborate on meaningful projects, and advocate for women in STEM in Guatemala.
+
+---
+
+## 💻 Tech Stack
+
+### 🔷 Programming Languages
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="Python" title="Python"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java" title="Java"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" title="JavaScript"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML" title="HTML"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS" title="CSS"/>
+</div>
+
+### 🚀 Frameworks & Libraries
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" title="React"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="Flask" title="Flask"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" title="Node.js"/>
+</div>
+
+### 🗃️ Databases
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" title="MySQL"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL" title="PostgreSQL"/>
+</div>
+
+### ☁️ Tools & DevOps
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" title="Git"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" title="GitHub"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VSCode" title="Visual Studio Code"/>
+</div>
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  Estudiante de Ingeniería en Ciencias y Sistemas <br>
-  <strong>Universidad de San Carlos de Guatemala 🇬🇹</strong><br>
-  Apasionada por la programación, el desarrollo de software y la tecnología educativa.
+  <img src="https://github-readme-stats.vercel.app/api?username=ZenaidaChacon&show_icons=true&theme=tokyonight" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZenaidaChacon&layout=compact&theme=tokyonight" height="180px"/>
 </p>
 
 ---
 
-### 📌 Sobre mí
-
-- 🎓 Actualmente en **noveno semestre** de Ingeniería en Ciencias y Sistemas.
-- 📘 Complemento mi formación técnica con un **Diplomado en Administración de Empresas**.
-- 👩‍🏫 Soy **tutora académica** en el curso *Introducción a la Programación y Computación 1*.
-- 💬 Me interesa todo lo relacionado con **desarrollo web**, **inteligencia artificial**, **automación**, y **educación tecnológica**.
-- 🚀 Siempre estoy aprendiendo nuevas tecnologías y participando en proyectos innovadores.
-
----
-
-### 🛠️ Tecnologías y herramientas
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
----
-
-### 📂 Proyectos destacados
-
-| Proyecto | Descripción | Tecnologías |
-|---------|-------------|-------------|
-| 🛠️ Sistema de Gestión Académica | Plataforma para administración de cursos, estudiantes y calificaciones. | Python, Flask, MySQL |
-| 🧠 Red Neuronal con TensorFlow | Modelo simple de red neuronal para clasificación de dígitos. | Python, TensorFlow |
-| 🌐 Portafolio Web Personal | Sitio web responsive para mostrar mi perfil y proyectos. | HTML, CSS, JavaScript |
-| 🗃️ Simulaciones con Simio | Modelos de simulación para procesos industriales. | Simio, Excel, Modelado 3D |
-
----
-
-### 📈 GitHub Stats
+## 🌐 Connect with Me
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZenaidaChacon&show_icons=true&theme=radical" alt="GitHub Stats">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZenaidaChacon&layout=compact&theme=radical" alt="Top Languages">
+  <a href="mailto:zchacon@correo.usac.edu.gt"><img src="https://img.shields.io/badge/Correo%20USAC-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/zchacon"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
 
-### 🤝 Conecta conmigo
+## 🐍 Contribution Snake
 
 <p align="center">
-  <a href="mailto:zenaidaichacong.gmail.com"><img src="https://img.shields.io/badge/-Correo%20USAC-0078D4?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="www.linkedin.com/in/zenaidachacon"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
-
----
-
-<p align="center">
-  ¡Gracias por visitar mi perfil! 🌟
-</p>
-
+  <img src="https://raw.githubusercontent.com/rfyiamcool/rfyiamco
