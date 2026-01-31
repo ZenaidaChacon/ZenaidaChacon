@@ -10,9 +10,9 @@
 
 ## 💫 Sobre mí
 
-Soy una estudiante de noveno semestre de Ingeniería en Ciencias y Sistemas en la Universidad de San Carlos de Guatemala. Complemento mi formación con un diplomado en Administración de Empresas, que me ha permitido fortalecer mis capacidades organizativas y de liderazgo.
+Soy una estudiante de decimo semestre de Ingeniería en Ciencias y Sistemas en la Universidad de San Carlos de Guatemala. Complemento mi formación con un diplomado en Administración de Empresas, que me ha permitido fortalecer mis capacidades organizativas y de liderazgo.
 
-Actualmente me desempeño como tutora académica en el curso *Introducción a la Programación y Computación 1*, reforzando contenidos como algoritmos, estructuras de control y lógica computacional. Me considero una persona proactiva, responsable y orientada a resultados, con interés en seguir creciendo en entornos tecnológicos desafiantes.
+Actualmente me desempeño como *It Internship Analyst* en Tigo Guatemala aprendiendo sobre las tecnologias en un entorno laboral y de la mano con grandes profesionales , con interés en seguir creciendo en entornos tecnológicos desafiantes.
 
 ---
 
